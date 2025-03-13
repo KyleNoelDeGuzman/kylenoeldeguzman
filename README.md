@@ -1,4 +1,4 @@
-# Hey There!
+# Hello There!
 👋 I’m Kyle Noel De Guzman
 
 🎓 Recent graduate from the University of Nevada, Las Vegas with a B.S. in Business Administration, Information Systems
