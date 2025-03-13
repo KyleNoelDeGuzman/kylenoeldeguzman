@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey There!
+👋 I’m Kyle Noel De Guzman
 
-<!--
-**KyleNoelDeGuzman/kylenoeldeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent graduate from the University of Nevada, Las Vegas with a B.S. in Business Administration, Information Systems
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about turning raw data into actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently learning SQL, Excel, and Power BI to enhance my analytical skills
+
+💡 On this GitHub, you’ll find a portfolio of my personal projects related to Data Analytics
+
+🚀 Always open to learning, collaborating, and exploring new data-driven solutions! Connect with me on Linkedin! 
+
+www.linkedin.com/in/kyle-de-guzman
+
+
+
+
